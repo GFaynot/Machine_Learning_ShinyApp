@@ -1,0 +1,11 @@
+name: shiny_app_demo
+title:
+username:
+account: guillaume-faynot
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6953895
+bundleId: 6281793
+url: https://guillaume-faynot.shinyapps.io/shiny_app_demo/
+when: 1662648072.4713
+lastSyncTime: 1662648072.4713

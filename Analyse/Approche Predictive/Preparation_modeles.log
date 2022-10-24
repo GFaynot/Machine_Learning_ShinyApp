@@ -1,0 +1,470 @@
+
+Attachement du package : 'dplyr'
+
+Les objets suivants sont masqués depuis 'package:stats':
+
+    filter, lag
+
+Les objets suivants sont masqués depuis 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Registered S3 method overwritten by 'quantmod':
+  method            from
+  as.zoo.data.frame zoo 
+
+Attachement du package : 'forecast'
+
+L'objet suivant est masqué depuis 'package:DescTools':
+
+    BoxCox
+
+Le chargement a nécessité le package : zoo
+
+Attachement du package : 'zoo'
+
+Les objets suivants sont masqués depuis 'package:base':
+
+    as.Date, as.Date.numeric
+
+
+Attachement du package : 'lubridate'
+
+Les objets suivants sont masqués depuis 'package:base':
+
+    date, intersect, setdiff, union
+
+
+Attachement du package : 'MASS'
+
+L'objet suivant est masqué depuis 'package:gtsummary':
+
+    select
+
+L'objet suivant est masqué depuis 'package:dplyr':
+
+    select
+
+Le chargement a nécessité le package : generics
+
+Attachement du package : 'generics'
+
+L'objet suivant est masqué depuis 'package:lubridate':
+
+    as.difftime
+
+L'objet suivant est masqué depuis 'package:keras':
+
+    evaluate
+
+L'objet suivant est masqué depuis 'package:dplyr':
+
+    explain
+
+Les objets suivants sont masqués depuis 'package:base':
+
+    as.difftime, as.factor, as.ordered, intersect, is.element, setdiff,
+    setequal, union
+
+Le chargement a nécessité le package : ggplot2
+
+Attachement du package : 'plotly'
+
+L'objet suivant est masqué depuis 'package:ggplot2':
+
+    last_plot
+
+L'objet suivant est masqué depuis 'package:MASS':
+
+    select
+
+L'objet suivant est masqué depuis 'package:stats':
+
+    filter
+
+L'objet suivant est masqué depuis 'package:graphics':
+
+    layout
+
+
+Attachement du package : 'shiny'
+
+Les objets suivants sont masqués depuis 'package:DT':
+
+    dataTableOutput, renderDataTable
+
+
+Attachement du package : 'shinydashboard'
+
+L'objet suivant est masqué depuis 'package:graphics':
+
+    box
+
+
+Please cite as: 
+
+ Hlavac, Marek (2022). stargazer: Well-Formatted Regression and Summary Statistics Tables.
+ R package version 5.2.3. https://CRAN.R-project.org/package=stargazer 
+
+2022-09-03 15:14:41.070796: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'cudart64_110.dll'; dlerror: cudart64_110.dll not found
+2022-09-03 15:14:41.072393: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+2022-09-03 15:14:44.195047: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'nvcuda.dll'; dlerror: nvcuda.dll not found
+2022-09-03 15:14:44.197236: W tensorflow/stream_executor/cuda/cuda_driver.cc:269] failed call to cuInit: UNKNOWN ERROR (303)
+2022-09-03 15:14:44.202334: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:169] retrieving CUDA diagnostic information for host: PC-DATA
+2022-09-03 15:14:44.204111: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:176] hostname: PC-DATA
+2022-09-03 15:14:44.205310: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX AVX2
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+Loaded Tensorflow version 2.9.2
+
+Attachement du package : 'dplyr'
+
+Les objets suivants sont masqués depuis 'package:stats':
+
+    filter, lag
+
+Les objets suivants sont masqués depuis 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Registered S3 method overwritten by 'quantmod':
+  method            from
+  as.zoo.data.frame zoo 
+
+Attachement du package : 'forecast'
+
+L'objet suivant est masqué depuis 'package:DescTools':
+
+    BoxCox
+
+Le chargement a nécessité le package : zoo
+
+Attachement du package : 'zoo'
+
+Les objets suivants sont masqués depuis 'package:base':
+
+    as.Date, as.Date.numeric
+
+
+Attachement du package : 'lubridate'
+
+Les objets suivants sont masqués depuis 'package:base':
+
+    date, intersect, setdiff, union
+
+
+Attachement du package : 'MASS'
+
+L'objet suivant est masqué depuis 'package:gtsummary':
+
+    select
+
+L'objet suivant est masqué depuis 'package:dplyr':
+
+    select
+
+Le chargement a nécessité le package : generics
+
+Attachement du package : 'generics'
+
+L'objet suivant est masqué depuis 'package:lubridate':
+
+    as.difftime
+
+L'objet suivant est masqué depuis 'package:keras':
+
+    evaluate
+
+L'objet suivant est masqué depuis 'package:dplyr':
+
+    explain
+
+Les objets suivants sont masqués depuis 'package:base':
+
+    as.difftime, as.factor, as.ordered, intersect, is.element, setdiff,
+    setequal, union
+
+Le chargement a nécessité le package : ggplot2
+
+Attachement du package : 'plotly'
+
+L'objet suivant est masqué depuis 'package:ggplot2':
+
+    last_plot
+
+L'objet suivant est masqué depuis 'package:MASS':
+
+    select
+
+L'objet suivant est masqué depuis 'package:stats':
+
+    filter
+
+L'objet suivant est masqué depuis 'package:graphics':
+
+    layout
+
+
+Attachement du package : 'shiny'
+
+Les objets suivants sont masqués depuis 'package:DT':
+
+    dataTableOutput, renderDataTable
+
+
+Attachement du package : 'shinydashboard'
+
+L'objet suivant est masqué depuis 'package:graphics':
+
+    box
+
+Learn more about sjPlot with 'browseVignettes("sjPlot")'.
+
+Please cite as: 
+
+ Hlavac, Marek (2022). stargazer: Well-Formatted Regression and Summary Statistics Tables.
+ R package version 5.2.3. https://CRAN.R-project.org/package=stargazer 
+
+2022-09-13 12:09:24.502789: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'cudart64_110.dll'; dlerror: cudart64_110.dll not found
+2022-09-13 12:09:24.503216: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+2022-09-13 12:09:50.402785: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'nvcuda.dll'; dlerror: nvcuda.dll not found
+2022-09-13 12:09:50.402870: W tensorflow/stream_executor/cuda/cuda_driver.cc:269] failed call to cuInit: UNKNOWN ERROR (303)
+2022-09-13 12:09:50.409103: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:169] retrieving CUDA diagnostic information for host: PC-DATA
+2022-09-13 12:09:50.409257: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:176] hostname: PC-DATA
+2022-09-13 12:09:50.414436: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX AVX2
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+Loaded Tensorflow version 2.9.2
+
+Attachement du package : 'dplyr'
+
+Les objets suivants sont masqués depuis 'package:stats':
+
+    filter, lag
+
+Les objets suivants sont masqués depuis 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Registered S3 method overwritten by 'quantmod':
+  method            from
+  as.zoo.data.frame zoo 
+
+Attachement du package : 'forecast'
+
+L'objet suivant est masqué depuis 'package:DescTools':
+
+    BoxCox
+
+Le chargement a nécessité le package : zoo
+
+Attachement du package : 'zoo'
+
+Les objets suivants sont masqués depuis 'package:base':
+
+    as.Date, as.Date.numeric
+
+
+Attachement du package : 'lubridate'
+
+Les objets suivants sont masqués depuis 'package:base':
+
+    date, intersect, setdiff, union
+
+
+Attachement du package : 'MASS'
+
+L'objet suivant est masqué depuis 'package:gtsummary':
+
+    select
+
+L'objet suivant est masqué depuis 'package:dplyr':
+
+    select
+
+Le chargement a nécessité le package : generics
+
+Attachement du package : 'generics'
+
+L'objet suivant est masqué depuis 'package:lubridate':
+
+    as.difftime
+
+L'objet suivant est masqué depuis 'package:keras':
+
+    evaluate
+
+L'objet suivant est masqué depuis 'package:dplyr':
+
+    explain
+
+Les objets suivants sont masqués depuis 'package:base':
+
+    as.difftime, as.factor, as.ordered, intersect, is.element, setdiff,
+    setequal, union
+
+Le chargement a nécessité le package : ggplot2
+
+Attachement du package : 'plotly'
+
+L'objet suivant est masqué depuis 'package:ggplot2':
+
+    last_plot
+
+L'objet suivant est masqué depuis 'package:MASS':
+
+    select
+
+L'objet suivant est masqué depuis 'package:stats':
+
+    filter
+
+L'objet suivant est masqué depuis 'package:graphics':
+
+    layout
+
+
+Attachement du package : 'shiny'
+
+Les objets suivants sont masqués depuis 'package:DT':
+
+    dataTableOutput, renderDataTable
+
+
+Attachement du package : 'shinydashboard'
+
+L'objet suivant est masqué depuis 'package:graphics':
+
+    box
+
+
+Please cite as: 
+
+ Hlavac, Marek (2022). stargazer: Well-Formatted Regression and Summary Statistics Tables.
+ R package version 5.2.3. https://CRAN.R-project.org/package=stargazer 
+
+2022-09-16 14:25:19.923093: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'cudart64_110.dll'; dlerror: cudart64_110.dll not found
+2022-09-16 14:25:19.923443: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+2022-09-16 14:25:47.375769: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'nvcuda.dll'; dlerror: nvcuda.dll not found
+2022-09-16 14:25:47.375847: W tensorflow/stream_executor/cuda/cuda_driver.cc:269] failed call to cuInit: UNKNOWN ERROR (303)
+2022-09-16 14:25:47.380561: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:169] retrieving CUDA diagnostic information for host: PC-DATA
+2022-09-16 14:25:47.380710: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:176] hostname: PC-DATA
+2022-09-16 14:25:47.385553: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX AVX2
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+Loaded Tensorflow version 2.9.2
+
+Attachement du package : 'dplyr'
+
+Les objets suivants sont masqués depuis 'package:stats':
+
+    filter, lag
+
+Les objets suivants sont masqués depuis 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Registered S3 method overwritten by 'quantmod':
+  method            from
+  as.zoo.data.frame zoo 
+
+Attachement du package : 'forecast'
+
+L'objet suivant est masqué depuis 'package:DescTools':
+
+    BoxCox
+
+Le chargement a nécessité le package : zoo
+
+Attachement du package : 'zoo'
+
+Les objets suivants sont masqués depuis 'package:base':
+
+    as.Date, as.Date.numeric
+
+
+Attachement du package : 'lubridate'
+
+Les objets suivants sont masqués depuis 'package:base':
+
+    date, intersect, setdiff, union
+
+
+Attachement du package : 'MASS'
+
+L'objet suivant est masqué depuis 'package:gtsummary':
+
+    select
+
+L'objet suivant est masqué depuis 'package:dplyr':
+
+    select
+
+Le chargement a nécessité le package : generics
+
+Attachement du package : 'generics'
+
+L'objet suivant est masqué depuis 'package:lubridate':
+
+    as.difftime
+
+L'objet suivant est masqué depuis 'package:keras':
+
+    evaluate
+
+L'objet suivant est masqué depuis 'package:dplyr':
+
+    explain
+
+Les objets suivants sont masqués depuis 'package:base':
+
+    as.difftime, as.factor, as.ordered, intersect, is.element, setdiff,
+    setequal, union
+
+Le chargement a nécessité le package : ggplot2
+
+Attachement du package : 'plotly'
+
+L'objet suivant est masqué depuis 'package:ggplot2':
+
+    last_plot
+
+L'objet suivant est masqué depuis 'package:MASS':
+
+    select
+
+L'objet suivant est masqué depuis 'package:stats':
+
+    filter
+
+L'objet suivant est masqué depuis 'package:graphics':
+
+    layout
+
+
+Attachement du package : 'shiny'
+
+Les objets suivants sont masqués depuis 'package:DT':
+
+    dataTableOutput, renderDataTable
+
+
+Attachement du package : 'shinydashboard'
+
+L'objet suivant est masqué depuis 'package:graphics':
+
+    box
+
+Learn more about sjPlot with 'browseVignettes("sjPlot")'.
+
+Please cite as: 
+
+ Hlavac, Marek (2022). stargazer: Well-Formatted Regression and Summary Statistics Tables.
+ R package version 5.2.3. https://CRAN.R-project.org/package=stargazer 
+
+2022-09-16 14:51:56.504389: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'cudart64_110.dll'; dlerror: cudart64_110.dll not found
+2022-09-16 14:51:56.504431: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+2022-09-16 14:51:59.665277: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'nvcuda.dll'; dlerror: nvcuda.dll not found
+2022-09-16 14:51:59.665318: W tensorflow/stream_executor/cuda/cuda_driver.cc:269] failed call to cuInit: UNKNOWN ERROR (303)
+2022-09-16 14:51:59.669103: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:169] retrieving CUDA diagnostic information for host: PC-DATA
+2022-09-16 14:51:59.669221: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:176] hostname: PC-DATA
+2022-09-16 14:51:59.669525: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX AVX2
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+Loaded Tensorflow version 2.9.2
